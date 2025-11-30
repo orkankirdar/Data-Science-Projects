@@ -6,6 +6,4 @@ __pycache__/
 
 data/raw/
 
-models/hotdog_model.keras
-
 .ipynb_checkpoints/
