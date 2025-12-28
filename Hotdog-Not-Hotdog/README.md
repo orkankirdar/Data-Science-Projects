@@ -41,6 +41,14 @@ Hotdog-Not-Hotdog/
 - Trained model stored in the `models/` directory
 - Evaluation logic separated from training for clarity
 
+## ✅ Confusion Matrix
+The confusion matrix below shows model predictions on the test dataset:
+
+- The model performs similarly well on both classes (hotdog / not hotdog).
+- Most errors occur on visually ambiguous samples such as unusual angles, heavy toppings, or cluttered backgrounds.
+
+![Confusion Matrix](visuals/confusion_matrix.png)
+
 ## 🚀 Inference
 You can run predictions on new images using the inference script:
 
