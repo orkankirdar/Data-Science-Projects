@@ -75,7 +75,7 @@ All experiments are reproducible using:
 SEED = 42
 ```
 
-Technologies Used
+## Technologies Used
 	•	Python
 	•	NumPy
 	•	scikit-learn
